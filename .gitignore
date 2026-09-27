@@ -3,9 +3,13 @@ notebooks/mlruns
 notebooks/mlruns/*
 venv/
 venv/*
+.venv/
+.venv/*
 __pycache__/
 *.pyc
 *.pyo
 *.egg-info/
+.DS_Store
+*/.DS_Store
 
 logs/
