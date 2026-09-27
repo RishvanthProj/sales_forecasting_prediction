@@ -1,0 +1,11 @@
+{
+  "run_id": "Test_Dataset_1790225369",
+  "dataset_name": "Test Dataset",
+  "timestamp": 1790225369,
+  "has_orders": true,
+  "feature_count": 26,
+  "training_times": {
+    "XGBoost": 0.585,
+    "Ridge Baseline": 0.011
+  }
+}
